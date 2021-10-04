@@ -4,4 +4,5 @@ Alteração de Readme para descrever melhor o sistema.
 
 isso aparece somente no branch master.
 
-zerando tudo do começo.
+
+mostrando como o git diff funciona e mostrab tudo que foi apagado e criado.
