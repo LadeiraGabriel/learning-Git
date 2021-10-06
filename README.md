@@ -1,2 +1,3 @@
-Meu primeiro arquivo de comentario
-criando index.html, style.css e arquivo.js
+deixando o readme zerado. 
+
+base criada html, css e js.
